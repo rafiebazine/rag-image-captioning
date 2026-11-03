@@ -1,0 +1,1702 @@
+[
+  {
+    "image_id": 376856,
+    "file_name": "000000376856.jpg",
+    "height": 640,
+    "width": 480,
+    "captions": [
+      "a tall church tower with a clock at the top",
+      "a big brick building with a clock at the top",
+      "A clock tower made of brick with vines growing up one side.",
+      "A clock is at the top of a tall brick building. ",
+      "A clock is seen at the top of a very tall building."
+    ],
+    "stratified_category": 1,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 263474,
+    "file_name": "000000263474.jpg",
+    "height": 640,
+    "width": 479,
+    "captions": [
+      "A bathroom area with a toilet, trashcan and dresser.",
+      "A bathroom toilet seat lid is highly decorated.",
+      "The toilet seat cover is made up of many colors.",
+      "A toilet decorated with a colorful quilted top.",
+      "An ordinary bathroom with a toilet and trash bin."
+    ],
+    "stratified_category": 1,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 437392,
+    "file_name": "000000437392.jpg",
+    "height": 640,
+    "width": 480,
+    "captions": [
+      "A toilet that is decorated like a pink stuffed animal",
+      "A pink monster made out of a toilet seat with googley eyes.",
+      "A pink think with a mop for hair and bulging eyeballs",
+      "A pink, handmade puppet sits on the floor.",
+      "A pink puppet toy with googly eyes on a hanger."
+    ],
+    "stratified_category": 1,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 161008,
+    "file_name": "000000161008.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A pair of scissors sitting on top of a wooden box.",
+      "An open pair of scissors sitting on a wooden box.",
+      "A pair of scissors sitting on a wooden box on a table.",
+      "A big pair of scissors is on a wooden box.",
+      "a pair of large sheers on top of a box."
+    ],
+    "stratified_category": 1,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 167240,
+    "file_name": "000000167240.jpg",
+    "height": 427,
+    "width": 640,
+    "captions": [
+      "A vase siting on top of a wooden shelf near a map.",
+      "A blue vase with an orange floral patters sits in front of a map.",
+      "An inlaid vase sitting in front of a map.",
+      "A brightly colored flower vase sits in front of a wall map.",
+      "A vase with red flowers on it next to a map."
+    ],
+    "stratified_category": 1,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 206271,
+    "file_name": "000000206271.jpg",
+    "height": 640,
+    "width": 323,
+    "captions": [
+      "The two urinals are on the wall with color tiles. ",
+      "Two urinals in a restroom with multicolored tile.",
+      "A view of a bathroom, with two urinals in it.",
+      "Two wall mounted urinals sitting next to trash cans.",
+      "two urinals near one another with trash cans"
+    ],
+    "stratified_category": 1,
+    "instance_count": 2,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 266206,
+    "file_name": "000000266206.jpg",
+    "height": 640,
+    "width": 427,
+    "captions": [
+      "Partially open door leading to a kitchen from a hallway.",
+      "A bathroom with the lights on visible through a slightly ajar door.",
+      "The bathroom door has three panels of frosted glass.",
+      "The open door to the bathroom is shown here.",
+      "Outside shot of a restroom showing the door partially open."
+    ],
+    "stratified_category": 1,
+    "instance_count": 2,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 505169,
+    "file_name": "000000505169.jpg",
+    "height": 640,
+    "width": 480,
+    "captions": [
+      "A toilet next to a chain shower stall in a bathroom.",
+      "Stylish circular shower stall, next to a toilet in a compact bathroom.",
+      "a bath room with a stand up shower and a toilet",
+      "A bathroom with a toilet, tiled walls and a chained shower. ",
+      "A blue pained bathroom with a toilet missing the upper half. "
+    ],
+    "stratified_category": 1,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 50844,
+    "file_name": "000000050844.jpg",
+    "height": 500,
+    "width": 334,
+    "captions": [
+      "A bed filled with different types of stuffed animals.",
+      "two teddy bears and a stuffed snowman wearing hats",
+      "tHERE ARE SEVERAL STUFFED ANIMALS TOGETHER ON A BED",
+      "A group of three stuffed animals sitting next to each other on a bed.",
+      "a pair of teddy bears laying on a bed"
+    ],
+    "stratified_category": 1,
+    "instance_count": 2,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 140658,
+    "file_name": "000000140658.jpg",
+    "height": 640,
+    "width": 480,
+    "captions": [
+      "A brick building with a tall clock tower beside it.",
+      "The exterior of a building with a clock.",
+      "A clock on the very top of a building.",
+      "A brick structure with a clock tower in the background.",
+      "A clock tower on top of a church with a weather vein."
+    ],
+    "stratified_category": 1,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 482487,
+    "file_name": "000000482487.jpg",
+    "height": 640,
+    "width": 480,
+    "captions": [
+      "Two small clocks sit behind a glass window.",
+      "Two clocks behind glass reflecting grass and shrubs.",
+      "looking through a window at a small clock and a large one",
+      "A large ornate metal clock rests beside a miniature clock, also, featuring great detail, both of which stand behind a pane of glass that  also shows the view from outside. ",
+      "A clock in a metal frame mounted on a wall."
+    ],
+    "stratified_category": 1,
+    "instance_count": 2,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 207538,
+    "file_name": "000000207538.jpg",
+    "height": 375,
+    "width": 500,
+    "captions": [
+      "A white Samsung microwave oven installed into a natural wood kitchen cabinet.",
+      "A white microwave hangs above the oven under cabinets",
+      "a microwave sits built in some cupboards ",
+      "a close up of a microwave attached to a wall",
+      "White microwave oven installed beneath cabinets in kitchens."
+    ],
+    "stratified_category": 1,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 523229,
+    "file_name": "000000523229.jpg",
+    "height": 640,
+    "width": 480,
+    "captions": [
+      "A dirty public bathroom with a handicap sign located above the toilet. ",
+      "A dirty public bathroom with a toilet seat lid open",
+      "A horrible public toilet that looks like it could use a good cleaning.",
+      "a handicap toilet with a foreign language written above it",
+      "A toilet and a handicap sign with red pipe"
+    ],
+    "stratified_category": 1,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 30675,
+    "file_name": "000000030675.jpg",
+    "height": 360,
+    "width": 640,
+    "captions": [
+      "The train engine number 6309 is operated by BNSF. ",
+      "A long orange train traveling along a tree filled forest.",
+      "An orange BNSE train riding on the tracks near a forest",
+      "a black orange and yellow train on its track and some trees",
+      "The freight train is painted orange and yellow. "
+    ],
+    "stratified_category": 2,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 149406,
+    "file_name": "000000149406.jpg",
+    "height": 638,
+    "width": 640,
+    "captions": [
+      "An old motorcycle rests near a rundown building. ",
+      "A red motorcycle parked by paint chipped doors.",
+      "An old, dusty motorcycle parked in front of a run down shop",
+      "A motorcycle just outside a building with green, peeling paint",
+      "A motorcycle parked in front of green doors. "
+    ],
+    "stratified_category": 2,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 312340,
+    "file_name": "000000312340.jpg",
+    "height": 425,
+    "width": 640,
+    "captions": [
+      "A black and white cat sitting on top of leaves.",
+      "Black and White cat laying down in dead leaves.",
+      "Black and white cat sitting in leaves outside a window.",
+      "A black and white cat relaxes atop a bunch of leaves",
+      "A black and white cat laying in green vegetation."
+    ],
+    "stratified_category": 2,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 106881,
+    "file_name": "000000106881.jpg",
+    "height": 533,
+    "width": 640,
+    "captions": [
+      "A bird sitting perched on a tree branch.",
+      "A bird sits on a branch of a tree.",
+      "A hawk perches on a tree branch in a forest.",
+      "This is a picture of a bird on a limb of a tree.",
+      "A bird on a limb surrounded by folliage."
+    ],
+    "stratified_category": 2,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 522940,
+    "file_name": "000000522940.jpg",
+    "height": 640,
+    "width": 511,
+    "captions": [
+      "a close up of a vandalized stop sign ",
+      "A stop sign with the words \"Don't\" and \"Believing\" added.",
+      "A stop sign has graffiti on that changes the sign to say, don't stop believing.",
+      "A stop sign with words added to it in marker",
+      "A stop sign has graffiti on it as it stands on a snowy street."
+    ],
+    "stratified_category": 2,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 22589,
+    "file_name": "000000022589.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A couple of sheep standing next to each other on a field.",
+      "Two sheep in a pasture behind a wire fence",
+      "Sheep looking to camera over another sheep's back as seen through a fence",
+      "Two sheep in a fenced area on a sunny day. ",
+      "Two sheep in a caged area with bushes "
+    ],
+    "stratified_category": 2,
+    "instance_count": 2,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 15278,
+    "file_name": "000000015278.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A white plate topped with broccoli and a dumpling.",
+      "Cooked broccoli sitting on a plate with salmon.",
+      "A plate that has some broccoli on it.",
+      "There is some salmon and broccoli with garlic on this plate.",
+      "A white plate with some broccoli and meat."
+    ],
+    "stratified_category": 2,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 386457,
+    "file_name": "000000386457.jpg",
+    "height": 640,
+    "width": 426,
+    "captions": [
+      "Cat wedged between two large oak doors trying to get out.",
+      "a cat looking out from an open doorway ",
+      "a cat stares through an opening between two doors ",
+      "A cat peeking out from behind a door.",
+      "A cat is trying to squeeze through a door."
+    ],
+    "stratified_category": 2,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 354307,
+    "file_name": "000000354307.jpg",
+    "height": 375,
+    "width": 500,
+    "captions": [
+      "A man badly beating laying unconscious near a nurse.",
+      "This man has several injuries on his face.",
+      " A man has cuts in head as he lays across a bed. ",
+      "A person with several severe cuts on their face and head.",
+      "An man with several injuries rests his head on a pillow."
+    ],
+    "stratified_category": 2,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 498857,
+    "file_name": "000000498857.jpg",
+    "height": 375,
+    "width": 500,
+    "captions": [
+      "A giraffe eats leaves through a wire fence.",
+      "A picture of a giraffe standing in a zoo exhibit.",
+      "a baby giraffe standing next to  a wire fence ",
+      "A giraffe standing up behind a fenced in area",
+      "A giraffe eats some leaves through a fence."
+    ],
+    "stratified_category": 2,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 304817,
+    "file_name": "000000304817.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "Snowboard stuck in a thick collection of trees. ",
+      "A snow board sticking out of the side of a tree.",
+      "SKATE BOARDER CRASHED INTO THE TREES JUMPING OVER A FENCE",
+      "a close up of a snow board in a bush",
+      "Snowboard atop of wooden structure next to evergreen plant."
+    ],
+    "stratified_category": 2,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 14888,
+    "file_name": "000000014888.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A cow getting relief as it is being milked.\n",
+      "A cow is being milked by a machine.",
+      "A dairy cow suffering in confinement hooked up to a milking machine.",
+      "A dairy cow is being milked by machine..",
+      "Small cow sitting on a milking machine in a dirty area."
+    ],
+    "stratified_category": 2,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 130599,
+    "file_name": "000000130599.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A man punching an innocent giraffe in the side of it's head.",
+      "A young man is playing with a giraffe",
+      "A man pretending to punch a giraffe sculpture.",
+      "A man is miming punching a giraffe statue.",
+      "A man is pretending to hit a statue of a giraffe."
+    ],
+    "stratified_category": 2,
+    "instance_count": 1,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 16439,
+    "file_name": "000000016439.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A small desk with lamp, phone, and laptop on it.",
+      "A lap top computer is open and on and is sitting on a desk next to a glass of liquid and a lamp.",
+      "An open laptop computer sitting on a desk next to a lamp.",
+      "A computer sits at a hotel desk, and the lamp is on.",
+      "A laptop computer is open on a wooden desk."
+    ],
+    "stratified_category": 3,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "indoor"
+  },
+  {
+    "image_id": 294162,
+    "file_name": "000000294162.jpg",
+    "height": 640,
+    "width": 480,
+    "captions": [
+      "A laptop computer sits on a black surface next to a wireless mouse.",
+      "A view of a small laptop with a mouse next to it.",
+      "An open laptop compute with a computer mouse.",
+      "The white laptop is turned off but left open. ",
+      "The computer mouse is in front of the laptop."
+    ],
+    "stratified_category": 3,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "indoor"
+  },
+  {
+    "image_id": 403353,
+    "file_name": "000000403353.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A lamp sitting next to a small bed with a book on top of it.",
+      "A lamp shining light on a bed with a book on it.",
+      "A book sitting on a bed with a lamp next to it",
+      "Bedside with lamp, large bound book, and humidifier. ",
+      "A bedroom with a book on the bed "
+    ],
+    "stratified_category": 3,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "indoor"
+  },
+  {
+    "image_id": 51598,
+    "file_name": "000000051598.jpg",
+    "height": 640,
+    "width": 360,
+    "captions": [
+      "A black trash bag in a restroom next to a sink.",
+      "a garbage bag in a white lighted bathroom",
+      "The bathroom has a wall sink, medicine cabinet, toothbrush holder, and bare walls.",
+      "A door is open to a white bathroom that has a black garbage back on the floor.",
+      "The bathroom door is open with the light on."
+    ],
+    "stratified_category": 3,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "indoor"
+  },
+  {
+    "image_id": 136033,
+    "file_name": "000000136033.jpg",
+    "height": 428,
+    "width": 640,
+    "captions": [
+      "a bathroom with some orange walls, and a black and white counter ",
+      "A bathroom with orange walls and black tile features.",
+      "A bathroom area with a sink and tiled counter top.",
+      "A bathroom with a tiled counter, a sink and a soap dispenser. ",
+      "A bathroom sink with mirror are shown in this picture."
+    ],
+    "stratified_category": 3,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "indoor"
+  },
+  {
+    "image_id": 231237,
+    "file_name": "000000231237.jpg",
+    "height": 500,
+    "width": 334,
+    "captions": [
+      "A vase with various flowers in it sitting on a tiled counter.",
+      "A vase with flowers inside and some strange growth at the base.",
+      "Flower are placed in a vase covered in shells.",
+      "A vase with red flowers in it on a table.",
+      "A bunch of small red flowers in a barnacle encrusted clay vase "
+    ],
+    "stratified_category": 3,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "indoor"
+  },
+  {
+    "image_id": 193348,
+    "file_name": "000000193348.jpg",
+    "height": 640,
+    "width": 426,
+    "captions": [
+      "A small child that is holding a toothbrush and brushing their teeth.",
+      "A child brushing their teeth in a bathroom.",
+      "A very small cute kid brushing his teeth.",
+      "there is a young child that is brushing his teeth",
+      "The small child is brushing it's teeth with a green toothbrush. "
+    ],
+    "stratified_category": 3,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "indoor"
+  },
+  {
+    "image_id": 84431,
+    "file_name": "000000084431.jpg",
+    "height": 640,
+    "width": 361,
+    "captions": [
+      "A slice of pizza sitting on top of a white plate.",
+      "A slice of pizza with toppings on a plate. ",
+      "A piece of pizza sitting on a plate while a t.v. is on. ",
+      "a single slice of pizza with ham slices on it  on a plate",
+      "A ham pizza with grated parmesan is on a plate in front of a TV."
+    ],
+    "stratified_category": 3,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "indoor"
+  },
+  {
+    "image_id": 343466,
+    "file_name": "000000343466.jpg",
+    "height": 240,
+    "width": 320,
+    "captions": [
+      "An empty kitchen in a house with a window in the corner.",
+      "A white stove top oven sitting next to a window.",
+      "View of kitchen with oven and plenty of cabinets home.",
+      "In the kitchen, there is a sink, stove, window and some cabinets.",
+      "A kitchen with a window and bunch of kitchen furniture in it"
+    ],
+    "stratified_category": 3,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "indoor"
+  },
+  {
+    "image_id": 324715,
+    "file_name": "000000324715.jpg",
+    "height": 333,
+    "width": 500,
+    "captions": [
+      "An apple computer is on a table with supplies.",
+      "A white Macintosh next to duct tape and red scissors.",
+      "A laptop computer sits near a roll of tape and a laptop computer.",
+      "A picture of a computer and some items on the table.",
+      "A laptop computer sits on a desk with scissors."
+    ],
+    "stratified_category": 3,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "indoor"
+  },
+  {
+    "image_id": 199551,
+    "file_name": "000000199551.jpg",
+    "height": 428,
+    "width": 640,
+    "captions": [
+      "A picture of a young boy laying on top of a bed.",
+      "Boy sleeping with no blanket in a large bed. ",
+      "A young boy sleeping on the side of his bed.",
+      "A young boy sleeping on floral printed sheets",
+      "A boy asleep on a large bed under a mosquito net"
+    ],
+    "stratified_category": 3,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "indoor"
+  },
+  {
+    "image_id": 163258,
+    "file_name": "000000163258.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A white toilet sitting in a bathroom next to a wall.",
+      "THERE IS A BATHROOM WITH A TOILET SHOWER AND SINK",
+      "SMALL BATHROOM WITH COMMODE, STAND UP SHOWER, AND SMALL SINK",
+      "White bathroom showing toilet, shower, sink and mirror.",
+      "A clean and white bathroom with a tub, shower and sink."
+    ],
+    "stratified_category": 3,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "indoor"
+  },
+  {
+    "image_id": 487583,
+    "file_name": "000000487583.jpg",
+    "height": 640,
+    "width": 426,
+    "captions": [
+      "A white toilet and cup in a room.",
+      "A table with a white cup and a cookie next to a toilet.",
+      "A corner of a rest room with a cookie and coffee.",
+      "there is a small black table next to a white toilet",
+      "A cup and a plate with food on it on a table next to a toilet."
+    ],
+    "stratified_category": 3,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "indoor"
+  },
+  {
+    "image_id": 223959,
+    "file_name": "000000223959.jpg",
+    "height": 640,
+    "width": 480,
+    "captions": [
+      "A man holding a tennis racquet on a tennis court.",
+      "A man in white shirt and black shorts playing tennis.",
+      "A squinting tennis player stares at a tennis racket.",
+      "a male tennis player in a white shirt is holding his racket",
+      "A man on a tennis court holding a racket. "
+    ],
+    "stratified_category": 4,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 415536,
+    "file_name": "000000415536.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A bus is driving on a wet road with many green trees on the roadside.",
+      "A bus is traveling through a street surrounded by trees.",
+      "A red bus driving down the road with its lights on.",
+      "A city bus that is traveling down a wet country road. ",
+      "A transit bus coming down a street with a large wooded side area."
+    ],
+    "stratified_category": 4,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 417911,
+    "file_name": "000000417911.jpg",
+    "height": 429,
+    "width": 640,
+    "captions": [
+      "A man in a wetsuit surfing a wave on a surf board.",
+      "a man leaning on a surfboard in the water riding a wave",
+      "A surfer is on his board cutting through the waves.",
+      "A man attempting to stand up on his board and surf a wave. ",
+      "A man is drenched by the spray from the crest of a wave as he attempts to stand up on his surfboard."
+    ],
+    "stratified_category": 4,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 347370,
+    "file_name": "000000347370.jpg",
+    "height": 375,
+    "width": 500,
+    "captions": [
+      "A person that is holding a lime in their hand.",
+      "A citrus fruit that has the peel pulled back.",
+      "An orange that has a green colored peel.",
+      "A picture of a fruit with its shell peeled.",
+      "A hand holds a piece of fruit with the peel cut off."
+    ],
+    "stratified_category": 4,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 358195,
+    "file_name": "000000358195.jpg",
+    "height": 640,
+    "width": 483,
+    "captions": [
+      "A little girl wearing pajamas is riding on a skateboard.",
+      "A little girl riding a skateboard down a road.",
+      "Young girl dressed in pink with striped pants with one foot on skate board on typical suburban street.",
+      "a girl is standing one foot on a skate board",
+      "A young girl in tennis shoes riding a skateboard."
+    ],
+    "stratified_category": 4,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 210299,
+    "file_name": "000000210299.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A little boy riding his bike and wearing a helmet",
+      "A little boy raveling down a road on a bike, with a yellow helmet on.",
+      "The boy wears a helmet while riding his bicycle.",
+      "a small child wearing a helmet and riding a bike",
+      "A little boy wearing a helmet and riding a bike."
+    ],
+    "stratified_category": 4,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 7278,
+    "file_name": "000000007278.jpg",
+    "height": 482,
+    "width": 640,
+    "captions": [
+      "there is a male surfer that is riding in the wave",
+      "a man on a surf board rides a wave ",
+      "A man in a wet suit riding a wave on a surf board.\n",
+      "A man that is on a surfboard in the water.",
+      "A surfer in the ocean on the crest of a wave."
+    ],
+    "stratified_category": 4,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 133567,
+    "file_name": "000000133567.jpg",
+    "height": 428,
+    "width": 640,
+    "captions": [
+      "A person looking at a train going by.",
+      "A train is passing by while an onlooker is standing next to track.",
+      "A man standing in front of the Amtrak train.",
+      "An Amtrack train is on the railroad tracks.",
+      "A train on train tracks with a person in the foreground."
+    ],
+    "stratified_category": 4,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 52507,
+    "file_name": "000000052507.jpg",
+    "height": 438,
+    "width": 640,
+    "captions": [
+      "A person that is going out in the water.",
+      "Surfer in board shorts walking in to the ocean",
+      "A man holding a surfboard walking into the ocean.",
+      "A man holding a yellow surfboard walking into the ocean.",
+      "a person holding a surf board in a body of water"
+    ],
+    "stratified_category": 4,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 440617,
+    "file_name": "000000440617.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "an image of a bus that is going down the tracks",
+      "a train on a train track with power lines above",
+      "A yellow and white train passing by multiple rows of tracks.",
+      "A passenger train speeding down a train track.",
+      "A train is traveling along a stretch of track."
+    ],
+    "stratified_category": 4,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 68628,
+    "file_name": "000000068628.jpg",
+    "height": 427,
+    "width": 640,
+    "captions": [
+      "Guy jumps off the steps doing a flip trick with his skateboard",
+      "A skateboarder does a jump trick over stairs.",
+      "A shirtless man is in mid air above some stairs on his skateboard.",
+      "a man on a skateboard jumping over a stairway",
+      "the man jumps over the steps while on his skateboard"
+    ],
+    "stratified_category": 4,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 133418,
+    "file_name": "000000133418.jpg",
+    "height": 427,
+    "width": 640,
+    "captions": [
+      "A man holding a tennis racquet on a tennis court.",
+      "A tennis playing tennis on a dirt court. ",
+      "Happy man standing on a tennis court holding a racket.",
+      "A male tennis player has just finished hitting the ball",
+      "A man playing tennis on a red coat in all white."
+    ],
+    "stratified_category": 4,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 267940,
+    "file_name": "000000267940.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A ferry the is pulling into the dock for off loading. ",
+      "A ferry in a port with mountains in the background.",
+      "A ship anchored to the bay and close to some building",
+      "The large boat in the water is docked by the buildings. ",
+      "A small ferry docked on calm water in Norway"
+    ],
+    "stratified_category": 4,
+    "instance_count": 2,
+    "distinct_categories": 2,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 348216,
+    "file_name": "000000348216.jpg",
+    "height": 640,
+    "width": 480,
+    "captions": [
+      "Your guess is as good as mine as to what these objects are.",
+      "A dim room with toilet bowls lined along the wall",
+      "a bunch of tubs are lined up next to each other",
+      "A picture of old urinals all lined up.",
+      "There were six toilet all lined up along the wall."
+    ],
+    "stratified_category": 5,
+    "instance_count": 8,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 458054,
+    "file_name": "000000458054.jpg",
+    "height": 426,
+    "width": 640,
+    "captions": [
+      "A row of white toilets sitting on top of a dirt ground.",
+      "A bunch of dirty looking white toilets in a row outside.",
+      "There is a row of used and broken toilets in a field.",
+      "A row of toilets with broken seat tops on the ground.",
+      "LOTS OF BROKEN TOILETS SITTING OUT ON A LAWN"
+    ],
+    "stratified_category": 5,
+    "instance_count": 10,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 377670,
+    "file_name": "000000377670.jpg",
+    "height": 640,
+    "width": 487,
+    "captions": [
+      "Teddy bears are re-enacting soldiers on the beach with others looking on.",
+      "toys on a beach made to look like he military ",
+      "A group of teddy bears are dressed in army outfits.",
+      "A set up to look like D-Day but with teddy bears.",
+      "A bunch of teddy bears posed to look like a D-day scene."
+    ],
+    "stratified_category": 5,
+    "instance_count": 3,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 218362,
+    "file_name": "000000218362.jpg",
+    "height": 426,
+    "width": 640,
+    "captions": [
+      "A large digital clock mounted to a wall.",
+      "A wall displaying an assorted collection of different clocks.",
+      "A wall with several different clocks hanging from it with a mirror next to them.",
+      "Multiple time pieces displayed on the wall and on a flat surface.",
+      "A wall with several different clocks on it, in both traditional and modern styles"
+    ],
+    "stratified_category": 5,
+    "instance_count": 8,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 370042,
+    "file_name": "000000370042.jpg",
+    "height": 356,
+    "width": 640,
+    "captions": [
+      "Large assortment of small and large vases displayed outdoors.",
+      "A pile of clay and gold vases sitting in a yard.",
+      "there are many vases on the ground in the street",
+      "There are many vases on display outside the building.",
+      "A bunch of pottery sitting on a sidewalk "
+    ],
+    "stratified_category": 5,
+    "instance_count": 14,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 429530,
+    "file_name": "000000429530.jpg",
+    "height": 478,
+    "width": 640,
+    "captions": [
+      "Four vases with purple flower in it. There are two different shapes and sizes.",
+      "Two different shaped white vases on a rack.",
+      "There are four vases that have butterfly sculptures on them.",
+      "A group of four matching vases are adorned with glass butterflies.",
+      "Four different sized vases decorated with various sized butterflys."
+    ],
+    "stratified_category": 5,
+    "instance_count": 4,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 464689,
+    "file_name": "000000464689.jpg",
+    "height": 640,
+    "width": 586,
+    "captions": [
+      "A picture of the entrance to an old house.",
+      "the front door to the house is open ",
+      "a building that has some stairs out front",
+      "these stairs are leading up to an open door",
+      "Concrete stairs lead to the double doors of the house."
+    ],
+    "stratified_category": 5,
+    "instance_count": 14,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 328030,
+    "file_name": "000000328030.jpg",
+    "height": 640,
+    "width": 425,
+    "captions": [
+      "the teddy bear is holding a hockey stick ",
+      "Teddy bears do want to be ice hockey players.",
+      "a stuffed animal holding a hockey stick ",
+      "a stuffed animal with a hockey stick ",
+      "A scene with a teddy bear playing hockey."
+    ],
+    "stratified_category": 5,
+    "instance_count": 5,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 97585,
+    "file_name": "000000097585.jpg",
+    "height": 640,
+    "width": 480,
+    "captions": [
+      "A wall with different types of decorations of art pieces. ",
+      "A mosaic of vases hung on a wall.",
+      "Assorted vases hanging on a wall next to each other.",
+      "Glass is hanging on the white wall all bunched together.",
+      "a white wall displaying art that look like vases"
+    ],
+    "stratified_category": 5,
+    "instance_count": 14,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 348045,
+    "file_name": "000000348045.jpg",
+    "height": 640,
+    "width": 588,
+    "captions": [
+      "Three white urinals mounted to a bathroom wall.",
+      "Three urinals each have small signs posted above them.",
+      "Three urinals are displayed with sings above them.",
+      "Urinals with signs hanging over them in a restroom.",
+      "A view of a bunch of urinals with stickers above them."
+    ],
+    "stratified_category": 5,
+    "instance_count": 3,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 519522,
+    "file_name": "000000519522.jpg",
+    "height": 640,
+    "width": 427,
+    "captions": [
+      "a large tower that has a big clock at top",
+      "The Big Ben clock tower towering over the city of London.",
+      "a lit up clock is on a tall tower",
+      "A clock tower on top of a tall historic building.",
+      "Clock tower next to a large building in a city."
+    ],
+    "stratified_category": 5,
+    "instance_count": 3,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 462629,
+    "file_name": "000000462629.jpg",
+    "height": 426,
+    "width": 640,
+    "captions": [
+      "A number of vintage refrigerators and freezers sitting outdoors.",
+      "A bunch of old refrigerators in front of an open door.",
+      "Tall boxes are stacked on a brown sidewalk.outside.",
+      "Old appliances outside the back door of a repair shop. ",
+      "Kitchen appliances outside a building with yellow doors. "
+    ],
+    "stratified_category": 5,
+    "instance_count": 9,
+    "distinct_categories": 1,
+    "context": "indoor"
+  },
+  {
+    "image_id": 528862,
+    "file_name": "000000528862.jpg",
+    "height": 375,
+    "width": 500,
+    "captions": [
+      "In a large area many giraffes stand behind a fenced area.",
+      "Several giraffes and other animals in a fenced enclosure.",
+      "A herd of giraffe walking through a grass covered hillside.",
+      "Several giraffes spending time in an enclosed, grassy area",
+      "A group of giraffes wonder around in a fenced off area with other animals. "
+    ],
+    "stratified_category": 6,
+    "instance_count": 7,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 123131,
+    "file_name": "000000123131.jpg",
+    "height": 427,
+    "width": 640,
+    "captions": [
+      "A large black semi parked in a parking lot.",
+      "A very large semi truck without any load is parked.",
+      "A shiny, new, low riding semi trailer truck",
+      "An eighteen wheeler truck is parked in a lot. ",
+      "A large black truck in a parking lot"
+    ],
+    "stratified_category": 6,
+    "instance_count": 4,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 154000,
+    "file_name": "000000154000.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A small white tow truck parked to another small white tow truck.",
+      "A dump truck with a dumpster on the back",
+      "A big truck loaded with some items in the back. ",
+      "Two large trucks are parked near each other.",
+      "A white and blue truck parked in the middle of a dirt road."
+    ],
+    "stratified_category": 6,
+    "instance_count": 3,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 5992,
+    "file_name": "000000005992.jpg",
+    "height": 428,
+    "width": 640,
+    "captions": [
+      "A small group of sheep standing together next to a building.",
+      "Group of sheep standing next to a brick building. ",
+      "sheep standing around next to a brick wall ",
+      "A herd of sheep standing on top of a green grass covered yard.",
+      "A group of shaggy haired sheep standing beside a building."
+    ],
+    "stratified_category": 6,
+    "instance_count": 5,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 579091,
+    "file_name": "000000579091.jpg",
+    "height": 425,
+    "width": 640,
+    "captions": [
+      "A plate of broccoli and meat on a table.",
+      "a close up of a plate of food with broccoli",
+      "Small plate of food which includes small pieces of broccoli",
+      "A close up picture of some food on a plate.",
+      "Some green broccoli and hams are on the plate. "
+    ],
+    "stratified_category": 6,
+    "instance_count": 3,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 15517,
+    "file_name": "000000015517.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "Buses parked on a road outside a large bus station. ",
+      "A city road with buses and bus park",
+      "The view of a metropolitan area behind many buses.",
+      "A wide view of a bunch of buses by some buildings.",
+      "a photo of a bus terminal taken from a distance"
+    ],
+    "stratified_category": 6,
+    "instance_count": 14,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 447313,
+    "file_name": "000000447313.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "Three zebras eating hay at the edge of a forest.",
+      "Pack of three zebras eating grass near a log.",
+      "Several zebras grazing on grasses in a natural habitat.",
+      "A group of zebras standing on a field next to a fallen tree.",
+      "A group of zebras graze on grass beneath tall trees."
+    ],
+    "stratified_category": 6,
+    "instance_count": 3,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 473974,
+    "file_name": "000000473974.jpg",
+    "height": 427,
+    "width": 640,
+    "captions": [
+      "A group of zebra standing in the tall grass.",
+      "A herd of zebra are grazing on tall dry grass.",
+      "A number zebras grazing in the woods. ",
+      "A group of zebras in a grassy area next to trees.",
+      "A herd of zebra in dry vegetation near dry trees."
+    ],
+    "stratified_category": 6,
+    "instance_count": 5,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 44260,
+    "file_name": "000000044260.jpg",
+    "height": 425,
+    "width": 640,
+    "captions": [
+      "A collection of apples growing on a tree. ",
+      "Crisp, delicious apples hang on the dying branches of the tree.",
+      "An apple tree is shown in the middle of an orchard.",
+      "A tree containing apples with more trees in the background.",
+      "A tree has dying leaves and apples in a forest."
+    ],
+    "stratified_category": 6,
+    "instance_count": 6,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 104119,
+    "file_name": "000000104119.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A large chicken walking through a grass covered landscape.",
+      "A group of chickens looking for food in the grass.",
+      "A bird in a forest looking down towards the ground.",
+      "A turkey is walking through the grass with a small bird.",
+      "A black and white chicken is walking through tall plants."
+    ],
+    "stratified_category": 6,
+    "instance_count": 3,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 376278,
+    "file_name": "000000376278.jpg",
+    "height": 427,
+    "width": 640,
+    "captions": [
+      "A zebra is lying on the ground with other zebras.",
+      "A zebra lays down in a leafy field.",
+      "A picture of an animal on the ground.",
+      "A lazy zebra lays in the straw near a rocky field.",
+      "Several zebras laying down in a rocky field."
+    ],
+    "stratified_category": 6,
+    "instance_count": 3,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 320632,
+    "file_name": "000000320632.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "There are several zebras standing close to each other.",
+      "A group of zebras stand together in a field.",
+      "A herd of zebras standing in close proximity to each other.",
+      "A herd of zebra standing next to each other on a green grass field.",
+      "A group of zebras are standing together in the grass."
+    ],
+    "stratified_category": 6,
+    "instance_count": 6,
+    "distinct_categories": 1,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 358525,
+    "file_name": "000000358525.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A child in a hat playing on a laptop computer",
+      "a small child operating a laptop on a bed ",
+      "A very young boy is using a keyboard on a laptop computer.",
+      "The little boy is having fun playing at the computer keybord",
+      "Cute little boy with hat playing on laptop computer"
+    ],
+    "stratified_category": 7,
+    "instance_count": 4,
+    "distinct_categories": 3,
+    "context": "indoor"
+  },
+  {
+    "image_id": 14038,
+    "file_name": "000000014038.jpg",
+    "height": 427,
+    "width": 640,
+    "captions": [
+      "A kitchen with hard wood floors and a yellow smiley face balloon.",
+      "a living room filled with some balloons and a bookshelf ",
+      "A room with a refrigerator has balloons in it.",
+      "A studio apartment with balloons marking clues to find.   ",
+      "A long room with balloons and arrows on the floor."
+    ],
+    "stratified_category": 7,
+    "instance_count": 25,
+    "distinct_categories": 11,
+    "context": "indoor"
+  },
+  {
+    "image_id": 22892,
+    "file_name": "000000022892.jpg",
+    "height": 334,
+    "width": 500,
+    "captions": [
+      "A cats sits on the table with a dog outside.",
+      "A dog and a cat are watching the plants on the table..",
+      "A dog looks through a window at a cat sitting on a table. ",
+      "A cat sitting on a table next to plants and a dog outside of a sliding glass door, looking in.",
+      "Dog looking in a window at a cat next to plants."
+    ],
+    "stratified_category": 7,
+    "instance_count": 5,
+    "distinct_categories": 5,
+    "context": "indoor"
+  },
+  {
+    "image_id": 177015,
+    "file_name": "000000177015.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A man using his laptop computer while a cat sits on his lap.",
+      "A man sitting in a chair with a cat and a laptop.",
+      "A cat sitting on the man's lap while the man types on the laptop. ",
+      "An Apple user and his faithful cat surf the web.",
+      "a man using his laptop while his cat looks at the screen"
+    ],
+    "stratified_category": 7,
+    "instance_count": 6,
+    "distinct_categories": 5,
+    "context": "indoor"
+  },
+  {
+    "image_id": 226147,
+    "file_name": "000000226147.jpg",
+    "height": 640,
+    "width": 480,
+    "captions": [
+      "A woman is taking a picture of food with a mobile device.",
+      "A woman that is sitting down in front of a table.",
+      "A woman taking a photo of her food with a cell phone.",
+      "a woman in a white top at a table with food",
+      "A women who is taking a picture of her food."
+    ],
+    "stratified_category": 7,
+    "instance_count": 21,
+    "distinct_categories": 13,
+    "context": "indoor"
+  },
+  {
+    "image_id": 499313,
+    "file_name": "000000499313.jpg",
+    "height": 478,
+    "width": 640,
+    "captions": [
+      "A deep dish and thick crusted pizza with toppings.",
+      "A herb topped pizza lying on a plate.",
+      "A white plate topped with a pizza cut into 6 slices.",
+      "A pizza with cheese and spinach on a plate.",
+      "A pizza on tray cut into six slices."
+    ],
+    "stratified_category": 7,
+    "instance_count": 5,
+    "distinct_categories": 4,
+    "context": "indoor"
+  },
+  {
+    "image_id": 398438,
+    "file_name": "000000398438.jpg",
+    "height": 333,
+    "width": 500,
+    "captions": [
+      "A person cutting a multi layer cake with a knife.",
+      "A man and woman making a cut unto a cake",
+      "A person reaching out and cutting a cake.",
+      "The hands of a couple that is cutting a wedding cake.",
+      "A couple at a wedding cutting their wedding cake together."
+    ],
+    "stratified_category": 7,
+    "instance_count": 3,
+    "distinct_categories": 3,
+    "context": "indoor"
+  },
+  {
+    "image_id": 318138,
+    "file_name": "000000318138.jpg",
+    "height": 640,
+    "width": 480,
+    "captions": [
+      "a girl is playing with a video game controller",
+      "A young person is playing with a video game controller.",
+      "A woman holding a Nintendo Wii game controller in her hand.",
+      "A girl playing Wii holding two remotes ",
+      "A girl playing a video game with several other people nearby."
+    ],
+    "stratified_category": 7,
+    "instance_count": 5,
+    "distinct_categories": 2,
+    "context": "indoor"
+  },
+  {
+    "image_id": 262631,
+    "file_name": "000000262631.jpg",
+    "height": 640,
+    "width": 480,
+    "captions": [
+      "A large glass vase with leaves painted on it's sides.",
+      "A vase with green leaves is sitting on display.",
+      "A large painted glossy vase sits on a table in a store.",
+      "Antique hand painted urn on display in store.",
+      "A large glass jar sitting on a table ."
+    ],
+    "stratified_category": 7,
+    "instance_count": 13,
+    "distinct_categories": 3,
+    "context": "indoor"
+  },
+  {
+    "image_id": 416451,
+    "file_name": "000000416451.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "Two men in living room playing a game with a Nintendo Wii controller.",
+      "Two people in a living room playing a wii video game.",
+      "A man standing on a stair stepper holding a Wii controller.",
+      "People using video game controllers in a living room.",
+      "Two guys playing a game on the WII."
+    ],
+    "stratified_category": 7,
+    "instance_count": 28,
+    "distinct_categories": 7,
+    "context": "indoor"
+  },
+  {
+    "image_id": 300913,
+    "file_name": "000000300913.jpg",
+    "height": 375,
+    "width": 500,
+    "captions": [
+      "A cat looking forward while laying down on a green cushion. ",
+      "A cat laying on a pillow on a couch ",
+      "The kitten lies on it's side beside a yellow pillow.",
+      "a cat lays down on a soft blanket ",
+      "A kitten is laying on a green throw pillow."
+    ],
+    "stratified_category": 7,
+    "instance_count": 3,
+    "distinct_categories": 2,
+    "context": "indoor"
+  },
+  {
+    "image_id": 140439,
+    "file_name": "000000140439.jpg",
+    "height": 640,
+    "width": 428,
+    "captions": [
+      "A clear, glass vase full of fresh cut tulips",
+      "a boquet of flowers sits on a table ",
+      "A. clear vase containing bouquet of pink with white tipped  tulips ",
+      "vase full of tulips arranged on a table in someones kitchen",
+      "A clear vase sits on a table and holds long stemmed tulips."
+    ],
+    "stratified_category": 7,
+    "instance_count": 9,
+    "distinct_categories": 3,
+    "context": "indoor"
+  },
+  {
+    "image_id": 401991,
+    "file_name": "000000401991.jpg",
+    "height": 379,
+    "width": 640,
+    "captions": [
+      "A white dog laying next to a cat on a bed.",
+      "two dogs laying in a bed with thick covers",
+      "Two dogs take a nap on a bed with a blanket.",
+      "Two dogs sleep on the blankets of a bed.",
+      "A cat and a dog both sleeping on a bed."
+    ],
+    "stratified_category": 8,
+    "instance_count": 4,
+    "distinct_categories": 3,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 223738,
+    "file_name": "000000223738.jpg",
+    "height": 640,
+    "width": 634,
+    "captions": [
+      "Young man in orange jersey swinging a baseball bat.",
+      "A baseball player hit the ball during a game.",
+      "People watching a player swing a baseball bat.",
+      "A baseball player in an orange jersey taking a swing.",
+      "A baseball player hitting the ball during a baseball game."
+    ],
+    "stratified_category": 8,
+    "instance_count": 7,
+    "distinct_categories": 3,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 216296,
+    "file_name": "000000216296.jpg",
+    "height": 427,
+    "width": 640,
+    "captions": [
+      "a couple of guys with tennis rackets waiting on a ball",
+      "A tennis player takes a wide stance to return a ball.",
+      "A man standing on a tennis court holding a racquet.",
+      "a man running at the end of a tennis court ",
+      "Competitor with  referee looking on green tennis court."
+    ],
+    "stratified_category": 8,
+    "instance_count": 5,
+    "distinct_categories": 3,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 480021,
+    "file_name": "000000480021.jpg",
+    "height": 471,
+    "width": 640,
+    "captions": [
+      "A painting of a man and woman riding together on a motorcycle.",
+      "A painting of men riding on motorcycles next to a gas station.",
+      "A vintage, colored drawing of people on motorcycles pulled into a gas station.",
+      "A man on a motorcycle is waving at two men.",
+      "A painted picture of a man and a woman on a motorcycle."
+    ],
+    "stratified_category": 8,
+    "instance_count": 9,
+    "distinct_categories": 4,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 138979,
+    "file_name": "000000138979.jpg",
+    "height": 426,
+    "width": 640,
+    "captions": [
+      "A large white bus sitting in front of a tall building.",
+      "An SUV is driving past a city bus that is letting passengers on.",
+      "A bus is stopped to let a passenger get on.",
+      "A bus boarding at a curb near a drug store. ",
+      "a bus stops to load and unload passengers"
+    ],
+    "stratified_category": 8,
+    "instance_count": 7,
+    "distinct_categories": 3,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 39914,
+    "file_name": "000000039914.jpg",
+    "height": 640,
+    "width": 487,
+    "captions": [
+      "A woman and small child are trying to fly a kite.",
+      "Just a little help from Mom will get his kite up in the air.",
+      "A woman and child play with a kite in a park.",
+      "A lady and her child outside playing with a kite.",
+      "An adult tries to help a child with her kite."
+    ],
+    "stratified_category": 8,
+    "instance_count": 11,
+    "distinct_categories": 2,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 472623,
+    "file_name": "000000472623.jpg",
+    "height": 640,
+    "width": 425,
+    "captions": [
+      "A young man riding a bike on top of a beach.",
+      "A bicyclist performs a wheelie near a rocky shore",
+      "A man balances his bicycle on one wheel",
+      "guy  with helmet on bicycle at beach",
+      "A man riding his bike of rock cliffs."
+    ],
+    "stratified_category": 8,
+    "instance_count": 4,
+    "distinct_categories": 2,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 328430,
+    "file_name": "000000328430.jpg",
+    "height": 640,
+    "width": 433,
+    "captions": [
+      "A tennis ball and a woman with a racket on a tennis court.",
+      "A woman in a very short skirt swinging a tennis racquet at a ball.",
+      "Woman tennis player returning a tennis ball. ",
+      "Woman in white outfit swinging up to hit tennis ball. ",
+      "a woman reaching up while jumping to hit a tennis ball "
+    ],
+    "stratified_category": 8,
+    "instance_count": 18,
+    "distinct_categories": 4,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 413395,
+    "file_name": "000000413395.jpg",
+    "height": 421,
+    "width": 640,
+    "captions": [
+      "A man sits on the couch with two cats on his lap.",
+      "A man resting on a couch with two different colored cats.",
+      "A man sitting on a couch has two cats on his lap.",
+      "A man and his two cats sitting on the couch.",
+      "a man sits on a couch with a couple of cats "
+    ],
+    "stratified_category": 8,
+    "instance_count": 5,
+    "distinct_categories": 4,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 151480,
+    "file_name": "000000151480.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A group of baseball players that are walking in the outfield.",
+      "A group of baseball players walking across a lush green field.",
+      "The baseball team getting ready to walk off the field.",
+      "Members of a baseball team are walking across a field.",
+      "A group of baseball players walking across a grassy area."
+    ],
+    "stratified_category": 8,
+    "instance_count": 18,
+    "distinct_categories": 3,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 87244,
+    "file_name": "000000087244.jpg",
+    "height": 500,
+    "width": 375,
+    "captions": [
+      "the fire hydrant has on the side of the road",
+      "a fire Hadrian that is out next to a house",
+      "A black and white photo of a fire hydrant, near a building.",
+      "Two color fire hydrant on cement slab in front of house.",
+      "A fire hydrant sits by itself in front of a business"
+    ],
+    "stratified_category": 8,
+    "instance_count": 3,
+    "distinct_categories": 3,
+    "context": "outdoor"
+  },
+  {
+    "image_id": 466156,
+    "file_name": "000000466156.jpg",
+    "height": 375,
+    "width": 500,
+    "captions": [
+      "The striped cat is sitting on top of the car.",
+      "a cat sitting on a car engine with the hood up",
+      "someone opened a hood on a car and he cat jumped up on the edge",
+      "Black cat sitting on the engine of a black car. ",
+      "A gray cat is walking next to a truck."
+    ],
+    "stratified_category": 8,
+    "instance_count": 5,
+    "distinct_categories": 2,
+    "context": "outdoor"
+  }
+]
