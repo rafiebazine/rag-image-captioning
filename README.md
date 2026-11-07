@@ -4,13 +4,13 @@
 
 - `main`: shared stable branch.
 - `rafie`: repository coordination and the only branch allowed to update `phase_01_data_exploration/splitted_data_set/`.
-- `bella`, `hadil`, `raouf`, and any personal branch: each contributor works only on their own branch.
+- `bella`, `hadil`, `raouf`, `zinou`: each contributor works only on their own branch.
 
 ## Workflow
 
-1. Start from the latest `main` and work on your own branch.
+1. clone the repo, link your local branch to your remote branch.
 2. Push changes only to your own branch.
-3. Open a pull request from your branch into `main`.
+3. Open a pull request from your branch into `main` as base branch to merge.
 4. Keep changes focused and do not push directly to `main`.
 
 ## Frozen dataset
