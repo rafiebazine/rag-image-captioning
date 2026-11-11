@@ -1,9 +1,5 @@
 # RAG Image Captioning: Data Audit & Retrieval Pipeline
 
-**Author:** Hadil  
-**Project:** Multimodal Retrieval-Augmented Generation (RAG) for Image Captioning  
-**Dataset Base:** MS COCO 2017  
-
 ---
 
 ## 📌 Project Overview
