@@ -1,18 +1,24 @@
-# Repository Guidelines
+# Phase 01 Notebooks
 
-## Branches
+Each notebook reads the COCO data or an earlier notebook's output and contributes to `Phase 01 Deliverable/`.
 
-- `main`: shared stable branch.
-- `rafie`: repository coordination and the only branch allowed to update `phase_01_data_exploration/splitted_data_set/`.
-- `bella`, `hadil`, `raouf`, `zinou`: each contributor works only on their own branch.
+- `download_and_extract_raw_coco_dataset.ipynb`: downloads and extracts COCO images and annotations.
+- `data_exploration_of_sub_datasets.ipynb`: analyzes split sizes, captions, objects, relations, and distributions; results support `audit_eda/`.
+- `image_validation.ipynb`: checks image availability and quality; results support `image_preprocessing/`.
+- `metadata_extraction.ipynb`: extracts object classes, bounding boxes, counts, and image dimensions into `metadata/`.
+- `caption_cleaning_and_diversity.ipynb`: cleans captions and measures caption diversity into `caption_preprocessing/`.
+- `quality_control.ipynb`: validates split, image, caption, and metadata integrity; results go into `audit_eda/audit_logs/`.
+- `embeddings.ipynb`: generates image/caption embeddings and their manifest in `embeddings/`.
+- `faiss_index.ipynb`: builds the FAISS retrieval index and lookup metadata in `vector_db/`.
+- `reorganize_release.ipynb`: collects and packages the validated outputs into `Phase 01 Deliverable/`.
+- `step_1_to_4_of_preprocessing_phase.ipynb`: combined preprocessing workflow covering download, validation, captions, and metadata.
 
-## Workflow
+## Output flow
 
-1. clone the repo, link your local branch to your remote branch.
-2. Push changes only to your own branch.
-3. Open a pull request from your branch into `main` as base branch to merge.
-4. Keep changes focused and do not push directly to `main`.
+`COCO data -> sub-dataset splits -> preprocessing -> quality-control audits -> embeddings -> FAISS index -> Phase 01 Deliverable/`
 
-## Frozen dataset
+## Repository Rules
 
-The files under `phase_01_data_exploration/splitted_data_set/` are frozen. Only Rafie may change them. Any dataset change changes the results, so all affected scripts must be run again and the new results must be recorded before merging.
+- `main` is the shared stable branch.
+- Contributors push only to their own branches and open pull requests into `main`.
+- Only `rafie` may update the frozen sub-dataset split files.
